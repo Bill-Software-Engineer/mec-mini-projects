@@ -1,0 +1,12 @@
+Questions to ask:
+
+What's our target events on Twitter?  What data do we want to pull?  It say to analyze reactions of people.  Is there a volume target?
+Do we have access to Twitter's API?  Most company have access limit, ie: max call per minute or per day.
+If not, then who is going to build the web scraper?
+Where would we store the data?
+What kind of reaction are we looking for?  Just approve/disapprove?  Or different kind of emotions?
+What kind model do we want to build?
+How would the results be accessed by maangement?  On internal webpage?  On a report?  
+Will the report be kept up to date?
+Will data continue to be streamed in?
+Is this a snapshot?
